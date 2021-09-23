@@ -1,0 +1,27 @@
+item {
+    id: 1
+    name: 'timer'
+}
+
+item {
+    id: 2
+    name: 'favorites'
+}
+item {
+    id: 3
+    name: 'temperature'
+}
+
+item {
+    id: 4
+    name: 'start'
+}
+item {
+    id: 5
+    name: 'menu'
+}
+
+item {
+    id: 6
+    name: 'light'
+}

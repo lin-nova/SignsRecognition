@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>t5.png</filename>
+	<path>/Volumes/Macintosh HD - Data/oven symbols model/electrolux_symbols/TensorFlow/workspace/training_demo/images/t5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>86</width>
+		<height>78</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>temperature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>12</ymin>
+			<xmax>76</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>
