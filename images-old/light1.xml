@@ -1,0 +1,26 @@
+<annotation>
+	<folder>light</folder>
+	<filename>Image from iOS (9).jpg</filename>
+	<path>/Volumes/Macintosh HD - Data/oven symbols model/electrolux_symbols/TensorFlow/workspace/training_demo/images/light/Image from iOS (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>19</ymin>
+			<xmax>179</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

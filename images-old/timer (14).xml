@@ -1,0 +1,26 @@
+<annotation>
+	<folder>timer</folder>
+	<filename>Image from iOS (14).jpg</filename>
+	<path>/Volumes/Macintosh HD - Data/oven symbols model/electrolux_symbols/TensorFlow/workspace/training_demo/images/timer/Image from iOS (14).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>timer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>16</ymin>
+			<xmax>190</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

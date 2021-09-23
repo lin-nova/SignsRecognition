@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temperature</folder>
+	<filename>Screen Shot 2021-09-22 at 11.51.10 AM.png</filename>
+	<path>/Volumes/Macintosh HD - Data/oven symbols model/electrolux_symbols/TensorFlow/workspace/training_demo/images/temperature/Screen Shot 2021-09-22 at 11.51.10 AM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>86</width>
+		<height>78</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>temp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>8</ymin>
+			<xmax>74</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>
